@@ -24,7 +24,8 @@ python data_process.py
  python main.py
  
 # Dataset
-St. Petersburg INCART Arrhythmia dataset can be downloaded from https://www.physionet.org/content/incartdb/1.0.0/
+St. Petersburg INCART Arrhythmia dataset can be downloaded from
+https://www.physionet.org/content/incartdb/1.0.0/
 
 MIT-BIH Arrhythmia dataset can be downloaded from
 https://www.physionet.org/content/mitdb/1.0.0/
