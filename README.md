@@ -24,11 +24,9 @@ python data_process.py
  python main.py
  
 # Dataset
-St. Petersburg INCART Arrhythmia dataset can be downloaded from
-https://www.physionet.org/content/incartdb/1.0.0/
+St. Petersburg INCART Arrhythmia dataset can be downloaded from https://www.physionet.org/content/incartdb/1.0.0/
 
-MIT-BIH Arrhythmia dataset can be downloaded from
-https://www.physionet.org/content/mitdb/1.0.0/
+MIT-BIH Arrhythmia dataset can be downloaded from https://www.physionet.org/content/mitdb/1.0.0/
 
 # Citation
 If you find this idea useful in your research, please consider citing: "Cross-modal Multiscale Multi-instance Learning for Long-term ECG Classification"
